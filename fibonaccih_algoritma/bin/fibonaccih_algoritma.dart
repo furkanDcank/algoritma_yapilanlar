@@ -13,6 +13,6 @@ void fibonaccihCalculator(int value){
     reslut = oldValue + newValue;
     oldValue = newValue;
     newValue = reslut;
-    print(reslut);
+      print(reslut);
   }
 }
